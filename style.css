@@ -1,0 +1,50 @@
+.main {
+  background-image: url("service-bg.jpg");
+  width: 100vw;
+  height: 100vh;
+}
+
+.color {
+  background: rgba(64, 66, 239, 0.5);
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+}
+
+.my-rows div {
+  padding: 10px;
+}
+
+.my-rows div div {
+  height: 50vh;
+  width: 25vw;
+}
+
+#row1 {
+  padding-left: 20px;
+}
+
+#div1 {
+  background-image: url("service1.jpg");
+}
+
+#div2 {
+  background-image: url("service2.jpg");
+}
+
+#div3 {
+  background-image: url("service3.jpg");
+}
+
+#div4 {
+  background-image: url("service4.jpg");
+}
+
+#div5 {
+  background-image: url("service5.jpg");
+}
+
+#div6 {
+  background-image: url("service6.jpg");
+}
+/*# sourceMappingURL=style.css.map */
